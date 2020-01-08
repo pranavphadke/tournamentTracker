@@ -1,0 +1,8 @@
+F:\Pranav\SelfStudy\CSharpProgramming\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+F:\Pranav\SelfStudy\CSharpProgramming\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+F:\Pranav\SelfStudy\CSharpProgramming\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+F:\Pranav\SelfStudy\CSharpProgramming\TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+F:\Pranav\SelfStudy\CSharpProgramming\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+F:\Pranav\SelfStudy\CSharpProgramming\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+F:\Pranav\SelfStudy\CSharpProgramming\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+F:\Pranav\SelfStudy\CSharpProgramming\TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
